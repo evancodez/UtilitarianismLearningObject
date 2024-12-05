@@ -30,7 +30,6 @@ public class UtilitarianismLearningObject {
     private JRadioButton[] options;
     private JLabel questionLabel;
 
-    // References to feedback panel components so we can update them dynamically
     private JTextArea trolleyFeedbackTextArea;
     private JButton retryButton;
     private JButton continueButton;
